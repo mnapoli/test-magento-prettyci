@@ -1,0 +1,11 @@
+{
+    "require": {
+        "magento/marketplace-eqp": "*"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/magento/marketplace-eqp"
+        }
+    ]
+}
