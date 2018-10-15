@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <ruleset name="Custom standard">
     <file>src</file>
-    <rule ref="vendor/magento/marketplace-eqp/MEQP1"/>
+    <rule ref="vendor/magento/marketplace-eqp/MEQP2"/>
 </ruleset>
